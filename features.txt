@@ -1,0 +1,49 @@
+notepad = "jarvis open notepad" and "open notepad"
+
+cmd     = "jarvis open command prompt" and "open command prompt"
+
+camera  = "jarvis open camera" and "open camera"
+
+music   = "jarvis play music" and "play music"
+
+volume =  "jarvis turn up/down the volume" and "volume up/down"
+
+mute =  "jarvis mute" and "mute"
+
+ipaddress = "jarvis what is my ip" and "what is my ip"
+
+wikipedia = "your question, according to  wikipedia"
+
+flashlight = "jarvis turn on/off flashlight" and "turn on/off flashlight"
+
+socialmedia = ""jarvis open youtube/twitter/facebook/instagram" and "open youtube""
+
+closing an app = "jarvis close it" and "close it"
+
+google = "jarvis open google" and "open google"
+
+play video on youtube = "jarvis play a video on youtube" and "play video on youtube"
+
+find phone= "jarvis where is my phone" and "where is my phone"
+
+screenshot = "jarvis take screenshot" and "take screenshot"
+
+internet speed = "my internet speed" and "my speed"
+
+shutdown/restart = "jarvis shutdow/restart the system" and "shutdown/restart the system"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+basic chit-chat
+iloveyou= "jarvis i love you" and "iloveyou"

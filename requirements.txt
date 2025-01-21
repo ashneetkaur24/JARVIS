@@ -1,0 +1,16 @@
+pyttsx3
+gtts
+playsound
+speechRecognition
+pyaudio
+datetime
+opencv-python
+wikipedia
+pyfirmata
+pywhatkit
+secure-smtplib
+pynput
+pyjokes
+twilio
+psutil
+speedtest-cli
